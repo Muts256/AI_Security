@@ -2,6 +2,7 @@
 
 AI threat modelling is the process of identifying and assessing security risks specific to AI systems, including threats such as prompt injection, data poisoning, model extraction, and adversarial inputs. It extends traditional threat modelling by considering the AI lifecycle, training data, model behaviour, and outputs and focuses on how attackers can manipulate or exploit these components. The goal is to proactively identify attack paths and implement controls such as input validation, access controls, and monitoring to reduce risk.
 
+---
 
 #### Simulated Attacks
 
@@ -75,6 +76,7 @@ Prompt injection can occur at multiple stages, so a defense-in-depth approach is
 
 ![image alt](https://github.com/Muts256/SNC-Public/blob/d0cdb3e0afeac00fca43890cd526dff7f199fc8f/Images/AI_Security/Th2.png)
 
+---
 
 #### Case 2
 
@@ -178,6 +180,7 @@ Sensitive data leakage controls are implemented across multiple layers because d
 
 ![image alt](https://github.com/Muts256/SNC-Public/blob/d0cdb3e0afeac00fca43890cd526dff7f199fc8f/Images/AI_Security/Th5.png)
 
+---
 
 #### Case 3
 
