@@ -6,6 +6,8 @@ AI threat modelling is the process of identifying and assessing security risks s
 
 #### Simulated Attacks
 
+---
+
 #### Case 1
 
 #### Prompt Injection Attack
