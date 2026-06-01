@@ -178,6 +178,8 @@ Sensitive data leakage controls are implemented across multiple layers because d
 
  This layered approach ensures defense-in-depth, where each stage reduces the risk of sensitive data leakage
 
+#### Result
+
 ![image alt](https://github.com/Muts256/SNC-Public/blob/d0cdb3e0afeac00fca43890cd526dff7f199fc8f/Images/AI_Security/Th5.png)
 
 ---
@@ -258,7 +260,9 @@ Data poisoning defenses are placed at both the database and retrieval layers bec
 
 This dual-layer approach reduces the risk of corrupted datasets and prevents poisoned data from influencing system outputs or model behavior.
 
+#### Result
+
 ![image alt](https://github.com/Muts256/SNC-Public/blob/d0cdb3e0afeac00fca43890cd526dff7f199fc8f/Images/AI_Security/Th8.png)
 
 
-###### The simulation and images were performed on the TryHackMe education site. Notes and explanations are what I observed and researched.
+###### The simulation and images were performed on the TryHackMe site. Notes and explanations are what I observed and researched.
