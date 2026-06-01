@@ -258,4 +258,4 @@ This dual-layer approach reduces the risk of corrupted datasets and prevents poi
 ![image alt](https://github.com/Muts256/SNC-Public/blob/d0cdb3e0afeac00fca43890cd526dff7f199fc8f/Images/AI_Security/Th8.png)
 
 
-##### The simulation and images were performed on the TryHackMe education site. Notes and explanations are what I observed and researched.
+###### The simulation and images were performed on the TryHackMe education site. Notes and explanations are what I observed and researched.
